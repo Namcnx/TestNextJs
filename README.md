@@ -10,4 +10,4 @@ git branch -M main
 
 git remote add origin https://github.com/Namcnx/TestNextJs.git
 
-git push -u origin main
+git push -u origin main  >>คำสั่งการupload ไฟล์
